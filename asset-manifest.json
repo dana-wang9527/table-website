@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dana-wang9527/table-website/static/css/main.22b6e383.chunk.css",
+    "main.js": "/dana-wang9527/table-website/static/js/main.4d07d685.chunk.js",
+    "main.js.map": "/dana-wang9527/table-website/static/js/main.4d07d685.chunk.js.map",
+    "runtime-main.js": "/dana-wang9527/table-website/static/js/runtime-main.c4c158b7.js",
+    "runtime-main.js.map": "/dana-wang9527/table-website/static/js/runtime-main.c4c158b7.js.map",
+    "static/css/2.14c36052.chunk.css": "/dana-wang9527/table-website/static/css/2.14c36052.chunk.css",
+    "static/js/2.4a54ab49.chunk.js": "/dana-wang9527/table-website/static/js/2.4a54ab49.chunk.js",
+    "static/js/2.4a54ab49.chunk.js.map": "/dana-wang9527/table-website/static/js/2.4a54ab49.chunk.js.map",
+    "static/js/3.7b98a07e.chunk.js": "/dana-wang9527/table-website/static/js/3.7b98a07e.chunk.js",
+    "static/js/3.7b98a07e.chunk.js.map": "/dana-wang9527/table-website/static/js/3.7b98a07e.chunk.js.map",
+    "index.html": "/dana-wang9527/table-website/index.html",
+    "static/css/2.14c36052.chunk.css.map": "/dana-wang9527/table-website/static/css/2.14c36052.chunk.css.map",
+    "static/css/main.22b6e383.chunk.css.map": "/dana-wang9527/table-website/static/css/main.22b6e383.chunk.css.map",
+    "static/js/2.4a54ab49.chunk.js.LICENSE.txt": "/dana-wang9527/table-website/static/js/2.4a54ab49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4c158b7.js",
+    "static/css/2.14c36052.chunk.css",
+    "static/js/2.4a54ab49.chunk.js",
+    "static/css/main.22b6e383.chunk.css",
+    "static/js/main.4d07d685.chunk.js"
+  ]
+}
